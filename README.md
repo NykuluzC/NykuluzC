@@ -116,8 +116,13 @@
 
 
 ## I LOVE CATS, LIKE TOTALLY LOVE THEM !!! THEY ARE THE REASON WHY I WILL DO MY DUTY AND IMPROVE AS A PROGRAMMER, SO I CAN BUY ALL OF THEM 😭
-![cute-cat](https://github.com/NykuluzC/NykuluzC/assets/109895517/8d0c9803-605d-4b9c-aa00-14b66dfb78af)
-![kitty-cat-sandwich](https://github.com/NykuluzC/NykuluzC/assets/109895517/a5473355-4d52-43a0-9ee0-9325067be5e2)
-![cute-kitty-cat-rxfhhdfepi4k59y9](https://github.com/NykuluzC/NykuluzC/assets/109895517/6fc9a97c-131d-4896-944d-3db9f4a789cb)
+<img align ="left" width ="200" height="200" src="https://github.com/NykuluzC/NykuluzC/assets/109895517/8d0c9803-605d-4b9c-aa00-14b66dfb78af" />
+
+<img align ="left" width="200" height="200" src="https://github.com/NykuluzC/NykuluzC/assets/109895517/a5473355-4d52-43a0-9ee0-9325067be5e2" />
+
+
+<img align ="left" width="200" height="200" src="https://github.com/NykuluzC/NykuluzC/assets/109895517/6fc9a97c-131d-4896-944d-3db9f4a789cb" />
+
+<img align ="left" width="200" height="200" src="https://github.com/NykuluzC/NykuluzC/assets/109895517/4788652c-9c76-4fb3-b2a3-334ad2a14e14" />
 
 
