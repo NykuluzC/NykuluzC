@@ -8,9 +8,8 @@ I am Currently a Computer Science Student in a university named Visayas State Un
 
 
 # Coding Statistics (WakaTime)
-<center> <img src="https://github-readme-stats.vercel.app/api/wakatime?username=NykuluzC&layuout=compact&theme=great-gatsby" />
-</center>
 
+[![Harlok's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=NykuluzC&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 <img
   src="https://github.com/<NykuluzC>/<NykuluzC>/blob/<main>/images/stat.svg&layuout=compact&theme=great-gatsby"
   alt="Nykuluz WakaTime Activity"
