@@ -8,7 +8,7 @@ I am Currently a Computer Science Student in a university named Visayas State Un
 
 
 # Coding Statistics (WakaTime)
-<center> <img src="https://github-readme-stats.vercel.app/api/wakatime?username=NykuluzC&layuout=compact&theme=great-gatsby&v=2" />
+<center> <img src="https://github-readme-stats.vercel.app/api/wakatime?username=NykuluzC&layuout=compact&theme=great-gatsby" />
 </center>
 
 <img
