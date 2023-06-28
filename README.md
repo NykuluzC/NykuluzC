@@ -5,7 +5,8 @@
 <img align ="left" width="47%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=NykuluzC&layout=compact&theme=great-gatsby" />
 
 
-## My Backend Dev Stack
+
+# My Backend Dev Stack
 <img align ="left" src="https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white" />
 
 <img align ="left" src="https://img.shields.io/badge/swift-F54A2A?style=for-the-badge&logo=swift&logoColor=white" />
@@ -70,7 +71,7 @@
 ![.Net](https://img.shields.io/badge/.NET-5C2D91?style=for-the-badge&logo=.net&logoColor=white)
 
 ## Coding Hours Spent
-<center> <img src="https://github-readme-stats.vercel.app/api/wakatime?username=@NykuluzC)](https://github.com/anuraghazra/github-readme-stats" />
+<center> <img src="https://github-readme-stats.vercel.app/api/wakatime?username=NykuluzC&layuout=compact&theme=great-gatsby&v=2" />
 </center>
 
 ## Other Expertise
