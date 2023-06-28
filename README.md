@@ -1,10 +1,22 @@
 # Hi there, I'm Carl
 
+# Github Profile and Repo Statistics
 <img align ="left" width="47%" src="https://github-readme-stats.vercel.app/api?username=NykuluzC&show_icons=true&theme=great-gatsby" />
 
 <img align ="left" width="47%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=NykuluzC&layout=compact&theme=great-gatsby" />
 
-# My Backend Dev Stack
+
+# Coding Statistics (WakaTime)
+<center> <img src="https://github-readme-stats.vercel.app/api/wakatime?username=NykuluzC&layuout=compact&theme=great-gatsby&v=2" />
+</center>
+
+<img
+  src="https://github.com/<NykuluzC>/<NykuluzC>/blob/<main>/images/stat.svg"
+  alt="Avinal WakaTime Activity"
+/>
+
+
+## My Backend Dev Stack
 <img align ="left" src="https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white" />
 
 <img align ="left" src="https://img.shields.io/badge/swift-F54A2A?style=for-the-badge&logo=swift&logoColor=white" />
@@ -67,14 +79,6 @@
 <img align ="left" src="https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=c-sharp&logoColor=white" />
 
 ![.Net](https://img.shields.io/badge/.NET-5C2D91?style=for-the-badge&logo=.net&logoColor=white)
-
-## Coding Hours Spent
-<center> <img src="https://github-readme-stats.vercel.app/api/wakatime?username=NykuluzC&layuout=compact&theme=great-gatsby&v=2" />
-</center>
-
-
-<img  src="https://wakatime.com/share/@NykuluzC/c3b4e998-23e8-4a55-9dd4-9e4907aa39dd.svg" />
-<img  src="https://wakatime.com/share/@NykuluzC/ea1deb3a-7c5b-4a05-a5be-66f5ccf4402b.svg" />
 
 
 
