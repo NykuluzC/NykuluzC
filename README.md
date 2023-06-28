@@ -12,7 +12,7 @@
 
 <img
   src="https://github.com/<NykuluzC>/<NykuluzC>/blob/<main>/images/stat.svg"
-  alt="Avinal WakaTime Activity"
+  alt="Nykuluz WakaTime Activity"
 />
 
 
