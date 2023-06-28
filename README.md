@@ -12,7 +12,7 @@ I am Currently a Computer Science Student in a university named Visayas State Un
 </center>
 
 <img
-  src="https://github.com/<NykuluzC>/<NykuluzC>/blob/<main>/images/stat.svg"
+  src="https://github.com/<NykuluzC>/<NykuluzC>/blob/<main>/images/stat.svg&layuout=compact&theme=great-gatsby"
   alt="Nykuluz WakaTime Activity"
 />
 
