@@ -1,4 +1,5 @@
-# Hi there, I'm Carl
+# Hi there, I'm Carl Irven Nykuluz.
+I am Currently a Computer Science Student in a university named Visayas State University 📓
 
 # Github Profile and Repo Statistics
 <img align ="left" width="47%" src="https://github-readme-stats.vercel.app/api?username=NykuluzC&show_icons=true&theme=great-gatsby" />
