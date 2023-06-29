@@ -3,9 +3,9 @@ I am Currently a Computer Science Student in a university named Visayas State Un
 
 <div align="center">
   <h1  style="color:blue;" >Github Profile and Repo Statistics</h1> 
-<img align ="left" width="46%" src="https://github-readme-stats.vercel.app/api?username=NykuluzC&show_icons=true&theme=great-gatsby" />
+<img align ="left" width="48%" src="https://github-readme-stats.vercel.app/api?username=NykuluzC&show_icons=true&theme=great-gatsby" />
 
-<img align ="left" width="46%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=NykuluzC&layout=compact&theme=great-gatsby" />
+<img align ="left" width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=NykuluzC&layout=compact&theme=great-gatsby" />
 </div>
 
 <div align="center">
