@@ -2,12 +2,10 @@
 I am Currently a Computer Science Student in a university named Visayas State University 📓
 
 # Github Profile and Repo Statistics
-<img align ="left" width="47%" src="https://github-readme-stats.vercel.app/api?username=NykuluzC&show_icons=true&theme=great-gatsby" />
+<img align ="left" width="46%" src="https://github-readme-stats.vercel.app/api?username=NykuluzC&show_icons=true&theme=great-gatsby" />
 
-<img align ="left" width="47%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=NykuluzC&layout=compact&theme=great-gatsby" />
-
-
-# Coding Statistics (WakaTime)
+<img align ="left" width="46%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=NykuluzC&layout=compact&theme=great-gatsby" />
+<h1>Coding Statistics</h1>
 <img width="40%"
   src="https://wakatime.com/share/@NykuluzC/ce6fb15d-b660-4687-87b0-72190808b6de.svg"
   alt="Nykuluz WakaTime Activity"
