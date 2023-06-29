@@ -8,12 +8,14 @@ I am Currently a Computer Science Student in a university named Visayas State Un
 
 
 # Coding Statistics (WakaTime)
-
-[![Harlok's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=NykuluzC&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
-<img
-  src="https://github.com/<NykuluzC>/<NykuluzC>/blob/<main>/images/stat.svg&layuout=compact&theme=great-gatsby"
+<img width="40%"
+  src="https://wakatime.com/share/@NykuluzC/ce6fb15d-b660-4687-87b0-72190808b6de.svg"
   alt="Nykuluz WakaTime Activity"
 />
+<img align="top" height="100%" width="50%"
+  src="https://github-readme-stats.vercel.app/api/wakatime?username=NykuluzC&layout=compact&theme=great-gatsby"
+  />
+
 
 
 ## My Backend Dev Stack
