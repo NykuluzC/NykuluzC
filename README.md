@@ -8,33 +8,39 @@ I am Currently a Computer Science Student in a university named Visayas State Un
 <img align ="left" width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=NykuluzC&layout=compact&theme=great-gatsby" />
 </div>
 
-<div align="center">
-  <h1>Coding Statistics</h1>
+<div>
+  
+<div>
+  <h1 align="center">Coding Statistics</h1>
 <img width="40%"
   src="https://wakatime.com/share/@NykuluzC/ce6fb15d-b660-4687-87b0-72190808b6de.svg"
   alt="Nykuluz WakaTime Activity"
 />
-<img align="top" height="100%" width="50%"
+<img align="left" height="100%" width="45%"
   src="https://github-readme-stats.vercel.app/api/wakatime?username=NykuluzC&layout=compact&theme=great-gatsby"
   />
 </div>
+</div>
 
 
-
-
-## My Backend Dev Stack
+<div align>
+  <h1>My Backend Dev Stack</h1> 
 <img align ="left" src="https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white" />
 
 <img align ="left" src="https://img.shields.io/badge/swift-F54A2A?style=for-the-badge&logo=swift&logoColor=white" />
+<img  src="https://img.shields.io/badge/Solidity-%23363636.svg?style=for-the-badge&logo=solidity&logoColor=white" />
+</div>
 
-
-![Solidity](https://img.shields.io/badge/Solidity-%23363636.svg?style=for-the-badge&logo=solidity&logoColor=white)
-
-## My Database Dev Stack
+<div align="left">
+  <h1>
+    My Database Dev Stack
+  </h1>
 
 <img align ="left" src="https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white" />
 
 <img align ="left" src="https://img.shields.io/badge/sqlite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white" />
+
+</div>
 
 
 
